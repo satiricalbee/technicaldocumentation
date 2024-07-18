@@ -1,5 +1,5 @@
 *{background-color: beige}
-header {font-size: 30px; font-style: bold}
+header {font-size: 30px; font-style: bold; text-align: center}
 p {font-size: 15px}
 @media print {
   body {
